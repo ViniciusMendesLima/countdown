@@ -1,12 +1,29 @@
-# React + Vite
+# 📝 Countdown para o Ano Novo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma aplicação que faz contagem regressiva para o ano novo desenvolvida em **React.js**.
 
-Currently, two official plugins are available:
+## 📌 Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Contagem regressiva precisa (dias, horas, minutos e segundos)
+- Atualização automática a cada segundo
+- Hook customizado `useCountdown`
 
-## Expanding the ESLint configuration
+## 📸 Demonstração
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Demonstração da aplicação](./src/assets/preview.png) <!-- opcional: adicione uma imagem do app rodando -->
+
+## Inicie o servidor de desenvolvimento:
+- npm install
+- npm run dev
+## 🧪 Tecnologias utilizadas
+
+- [React](https://reactjs.org/)
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Vite
+
+🧠 Aprendizado
+Projeto desenvolvido com base no conteúdo do vídeo:
+
+🔗 [PROJETO DE CONTAGEM REGRESSIVA COM REACT JS (YouTube)](https://www.youtube.com/watch?v=uYSV4w1FFnE)
